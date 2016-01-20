@@ -1,0 +1,17 @@
+{
+  "name": "ngeo_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "closure-util": "^1.10.0",
+    "ngeo": "camptocamp/ngeo#master",
+    "openlayers": "^3.12.1",
+    "angular": "^1.4.7"
+  }
+}
